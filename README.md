@@ -1,0 +1,2 @@
+# ViewGrouptest
+这是一个尝试继承ViewGroup自绘制容器控件的项目
